@@ -9,5 +9,7 @@ github_username:  benniethedeveloper # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima.
-
+layout: post
+title:  "Welcome to Jekyll!"
+ 
 
